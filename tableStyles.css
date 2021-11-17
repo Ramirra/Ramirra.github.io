@@ -25,3 +25,9 @@ tr:nth-child(even){
 tr:nth-child(odd){
     background-color: cornsilk;
 }
+
+
+tr:hover{
+    background-color: darkgoldenrod;
+    font-weight: bold;
+}
